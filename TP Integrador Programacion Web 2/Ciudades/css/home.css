@@ -1,0 +1,45 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.titulo{
+    font-size: 25px;
+}
+p{
+    text-align: center;
+}
+
+.foto{
+    width: 600px;
+    height:400px;
+    display:block;
+    margin: auto;
+	box-shadow: black 0px 0px 5px;
+    margin:20px auto ;
+}
+ul li{
+    list-style: none;
+}
+
+.my-container{
+    padding: 50px 10px;
+}
+.card-columns{
+    margin: auto;
+}
+
+.contenedor2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contenedor2 img{
+    width: 25%;
+    height:25%;
+    padding: 10px;
+    box-shadow: 0 0 0 2px white;
+}
